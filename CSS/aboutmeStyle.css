@@ -1,0 +1,21 @@
+body{
+    /* background: url(https://images.pexels.com/photos/1020315/pexels-photo-1020315.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background:red;
+}
+
+
+h1{
+    color:blue;
+    border:5px dashed purple;
+}
+
+li{
+    color:rgb(54, 167, 54);
+    background: rgba(171, 238, 223, 0.726);
+}
+
+h4{
+    color:rgb(201, 37, 201);
+}

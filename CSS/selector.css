@@ -1,0 +1,20 @@
+/* Star selector */
+*{
+    border: 1px solid black;
+}
+
+
+/* Descendant Selector */
+li a{
+    color:green;
+}
+
+/* Adjacent Selector */
+h3 + ul{
+    border: 3px dashed green;
+}
+
+/* Attribute selector */
+a[href = "https://google.com"]{
+    background: blue;
+}

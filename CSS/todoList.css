@@ -1,0 +1,12 @@
+li{
+    border: 2px solid red;
+}
+
+#css{
+    color: blue;
+    background:yellow;
+}
+
+.checked{
+    text-decoration:line-through
+}
