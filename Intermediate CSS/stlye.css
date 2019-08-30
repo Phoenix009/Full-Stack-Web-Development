@@ -1,0 +1,45 @@
+/* FontSize: The size of the font
+px: the pixel value of the size of the font
+em: a dynamic measure. the size of the element will be em times the size of the element enclosing this element */
+
+body{
+    font-size : 10px;
+}
+
+p{
+    font-family: Arial;
+    font-size: 2.0em;
+}
+
+h1{
+    font-family: Georgia;
+    font-size: 5.0em;
+}
+
+span{
+    font-size: 3.0em;
+}
+
+/* Fontweight */
+p{
+    font-weight: bold;
+}
+
+/* lineheight: thespacing between successive lines */
+p{
+    line-height: 1.5;
+}
+
+/* text-Align: text alignment */
+h1{
+    text-align: center;
+}
+
+
+/* text-Decoration */
+p{
+    text-decoration: underline;
+}
+h1{
+    text-decoration: line-through;
+}
